@@ -1,0 +1,34 @@
+Program started at 2025-10-31 14:12:39.966006
+2025-10-31 14:12:52.317595 - Key pressed: 1
+2025-10-31 14:12:52.422563 - Key released: '1'
+2025-10-31 14:12:52.455567 - Key pressed: 0
+2025-10-31 14:12:52.494092 - Key released: '0'
+2025-10-31 14:12:53.203672 - Special key pressed: Key.enter
+2025-10-31 14:12:53.269046 - Key released: Key.enter
+2025-10-31 14:12:53.469229 - Special key pressed: Key.shift
+2025-10-31 14:12:53.471209 - Key released: Key.shift
+2025-10-31 14:12:53.473208 - Special key pressed: Key.space
+2025-10-31 14:12:53.475233 - Key released: Key.space
+2025-10-31 14:12:53.478214 - Special key pressed: Key.backspace
+2025-10-31 14:12:53.480208 - Key released: Key.backspace
+2025-10-31 14:12:53.483208 - Special key pressed: Key.space
+2025-10-31 14:12:53.485237 - Key released: Key.space
+2025-10-31 14:12:53.488234 - Key pressed: l
+2025-10-31 14:12:53.490208 - Key released: 'l'
+Program started at 2025-10-31 14:49:46.321045
+2025-10-31 14:49:55.700819 - Key pressed: 1
+2025-10-31 14:49:55.785298 - Key released: '1'
+2025-10-31 14:49:55.807306 - Key pressed: 0
+2025-10-31 14:49:55.870988 - Key released: '0'
+2025-10-31 14:49:56.460705 - Special key pressed: Key.enter
+2025-10-31 14:49:56.526440 - Key released: Key.enter
+2025-10-31 14:49:56.555279 - Special key pressed: Key.shift
+2025-10-31 14:49:56.556244 - Key released: Key.shift
+2025-10-31 14:49:56.558245 - Special key pressed: Key.space
+2025-10-31 14:49:56.559246 - Key released: Key.space
+2025-10-31 14:49:56.560305 - Special key pressed: Key.backspace
+2025-10-31 14:49:56.561304 - Key released: Key.backspace
+2025-10-31 14:49:56.562303 - Special key pressed: Key.space
+2025-10-31 14:49:56.562303 - Key released: Key.space
+2025-10-31 14:49:56.563303 - Key pressed: д
+2025-10-31 14:49:56.564303 - Key released: 'д'
